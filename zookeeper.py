@@ -120,8 +120,6 @@ Switching on camera from habitat with rabbits...
 It seems there will be more rabbits soon!"""
 
 animals = [camel, lion, deer, goose, bat, rabbit]
-
-# write your code here
 answer = 0
 exit = "exit"
 while answer != exit:
